@@ -1,1 +1,2 @@
-# Car-Price-Prediction
+# Car-price-Prediction
+The "Car Price Prediction" project involves the development of a machine learning model to predict the prices of used cars. This project aims to assist both buyers and sellers in making informed decisions by leveraging historical car data. By utilizing regression techniques, the model will learn the patterns and factors influencing car prices, contributing to a more transparent and data-driven approach in the automotive market.
